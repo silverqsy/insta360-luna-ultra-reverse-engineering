@@ -1,0 +1,14 @@
+# Local identity, outputs and credentials never belong in this repository.
+.x6-owner-state.json
+*.json
+*.log
+*.bin
+*.img
+*.zip
+*.ilgx
+*.pem
+*.key
+adbkey*
+command*.txt
+__pycache__/
+.DS_Store

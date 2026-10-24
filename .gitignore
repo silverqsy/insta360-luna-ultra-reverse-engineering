@@ -1,0 +1,15 @@
+# Keep local credentials, camera data and generated files out of this fork.
+.x6-owner-state.json
+command*.txt
+*.log
+*.bin
+*.img
+*.zip
+*.ilgx
+*.pem
+*.key
+adbkey*
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
